@@ -1,0 +1,103 @@
+username	typeId	typeName	targetId	targetName
+choang	3ad92ce9-f181-326d-8bbc-898cf070e5c1	proj mgr role	781630aa-f89e-35e7-8a01-0892afb9cf6d	Terminology Project Auxiliary concept 
+choang	10c460c8-48f1-3e8a-b231-592b88332dee	workset manager role	781630aa-f89e-35e7-8a01-0892afb9cf6d	Terminology Project Auxiliary concept 
+choang	bbb2b51c-01b3-36a7-9790-87434d26753e	partitioning manager role	781630aa-f89e-35e7-8a01-0892afb9cf6d	Terminology Project Auxiliary concept 
+kcampbell	3ad92ce9-f181-326d-8bbc-898cf070e5c1	proj mgr role	781630aa-f89e-35e7-8a01-0892afb9cf6d	Terminology Project Auxiliary concept 
+kcampbell	10c460c8-48f1-3e8a-b231-592b88332dee	workset manager role	781630aa-f89e-35e7-8a01-0892afb9cf6d	Terminology Project Auxiliary concept 
+kcampbell	bbb2b51c-01b3-36a7-9790-87434d26753e	partitioning manager role	781630aa-f89e-35e7-8a01-0892afb9cf6d	Terminology Project Auxiliary concept 
+lstevenson	3ad92ce9-f181-326d-8bbc-898cf070e5c1	proj mgr role	781630aa-f89e-35e7-8a01-0892afb9cf6d	Terminology Project Auxiliary concept 
+lstevenson	10c460c8-48f1-3e8a-b231-592b88332dee	workset manager role	781630aa-f89e-35e7-8a01-0892afb9cf6d	Terminology Project Auxiliary concept 
+lstevenson	bbb2b51c-01b3-36a7-9790-87434d26753e	partitioning manager role	781630aa-f89e-35e7-8a01-0892afb9cf6d	Terminology Project Auxiliary concept 
+choang	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+choang	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+choang	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+jlyle	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+jlyle	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+jlyle	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+kcampbell	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+kcampbell	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+kcampbell	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+lstevenson	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+lstevenson	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+lstevenson	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+mloucks	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+mloucks	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+mloucks	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+skeni	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+skeni	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+skeni	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+smaulden	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+smaulden	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+smaulden	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+hmiller	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+hmiller	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+hmiller	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+test-one	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+test-one	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+test-one	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+darmbrust	3ad92ce9-f181-326d-8bbc-898cf070e5c1	proj mgr role	781630aa-f89e-35e7-8a01-0892afb9cf6d	Terminology Project Auxiliary concept 
+darmbrust	10c460c8-48f1-3e8a-b231-592b88332dee	workset manager role	781630aa-f89e-35e7-8a01-0892afb9cf6d	Terminology Project Auxiliary concept 
+darmbrust	bbb2b51c-01b3-36a7-9790-87434d26753e	partitioning manager role	781630aa-f89e-35e7-8a01-0892afb9cf6d	Terminology Project Auxiliary concept 
+cmacumber	3ad92ce9-f181-326d-8bbc-898cf070e5c1	proj mgr role	781630aa-f89e-35e7-8a01-0892afb9cf6d	Terminology Project Auxiliary concept 
+cmacumber	10c460c8-48f1-3e8a-b231-592b88332dee	workset manager role	781630aa-f89e-35e7-8a01-0892afb9cf6d	Terminology Project Auxiliary concept 
+cmacumber	bbb2b51c-01b3-36a7-9790-87434d26753e	partitioning manager role	781630aa-f89e-35e7-8a01-0892afb9cf6d	Terminology Project Auxiliary concept 
+jcarter	3ad92ce9-f181-326d-8bbc-898cf070e5c1	proj mgr role	781630aa-f89e-35e7-8a01-0892afb9cf6d	Terminology Project Auxiliary concept 
+jcarter	10c460c8-48f1-3e8a-b231-592b88332dee	workset manager role	781630aa-f89e-35e7-8a01-0892afb9cf6d	Terminology Project Auxiliary concept 
+jcarter	bbb2b51c-01b3-36a7-9790-87434d26753e	partitioning manager role	781630aa-f89e-35e7-8a01-0892afb9cf6d	Terminology Project Auxiliary concept 
+jefron	3ad92ce9-f181-326d-8bbc-898cf070e5c1	proj mgr role	781630aa-f89e-35e7-8a01-0892afb9cf6d	Terminology Project Auxiliary concept 
+jefron	10c460c8-48f1-3e8a-b231-592b88332dee	workset manager role	781630aa-f89e-35e7-8a01-0892afb9cf6d	Terminology Project Auxiliary concept 
+jefron	bbb2b51c-01b3-36a7-9790-87434d26753e	partitioning manager role	781630aa-f89e-35e7-8a01-0892afb9cf6d	Terminology Project Auxiliary concept 
+darmbrust	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+darmbrust	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+darmbrust	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+dsmith	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+dsmith	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+dsmith	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+cmacumber	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+cmacumber	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+cmacumber	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+jcarter	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+jcarter	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+jcarter	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+jefron	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+jefron	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+jefron	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+skeni	3ad92ce9-f181-326d-8bbc-898cf070e5c1	proj mgr role	781630aa-f89e-35e7-8a01-0892afb9cf6d	Terminology Project Auxiliary concept 
+skeni	10c460c8-48f1-3e8a-b231-592b88332dee	workset manager role	781630aa-f89e-35e7-8a01-0892afb9cf6d	Terminology Project Auxiliary concept 
+skeni	bbb2b51c-01b3-36a7-9790-87434d26753e	partitioning manager role	781630aa-f89e-35e7-8a01-0892afb9cf6d	Terminology Project Auxiliary concept 
+amoore	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+amoore	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+amoore	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+jlin	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+jlin	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+jlin	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+grehwoldt	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+grehwoldt	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+grehwoldt	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+ckossally	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+ckossally	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+ckossally	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+jadams	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+jadams	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+jadams	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+nmoran	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+nmoran	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+nmoran	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+mferramosca	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+mferramosca	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+mferramosca	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+ctinsley	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+ctinsley	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+ctinsley	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+nstocks	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+nstocks	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+nstocks	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+abhutto	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+abhutto	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+abhutto	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+sassar	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+sassar	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+sassar	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+twilliams	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+twilliams	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+twilliams	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 

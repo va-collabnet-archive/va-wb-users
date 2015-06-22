@@ -1,0 +1,3 @@
+User permission (User = <user>, Clinical editor hierarchy = <taxonomy hierarchy>, Clinical editor category = Clinical editor role <role permission level>)
+
+User permission (User = test-one, Clinical editor hierarchy = SNOMED CT Concept (SNOMED RT+CTV3), Clinical editor category = Clinical editor role A)

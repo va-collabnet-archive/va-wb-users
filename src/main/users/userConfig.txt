@@ -1,0 +1,108 @@
+# NOTE: a concept spec is defined as: ConceptSpec(preferred term, uuid)
+
+# Additional taxonomy roots. List of ConceptSpecs with entries separated by ";"
+additionalRoots = ConceptSpec(LOINC, 3958d043-9e8c-508e-bf6d-fd9c83a856da); \
+				ConceptSpec(UMLS Root Concepts, cfef9f3a-148e-5cb9-af1f-d3962c70180b); \
+				ConceptSpec(NDF-RT, 3f89350d-ceff-51f0-9c0e-57d3e53e29df); \
+				ConceptSpec(NDF, 28e577f4-4a37-555f-bef9-2a94866e4e5d); \
+				ConceptSpec(VHAT, 9f576ebe-d5a0-5024-a7e4-06b54ba2a4ea); \
+				ConceptSpec(Terminology Project Auxiliary concept, 781630aa-f89e-35e7-8a01-0892afb9cf6d);
+
+# langSortPref options: rf2 refex (rf2), language refex (lr), type before language (tl), language before type (lt)
+langSortPref = rf2
+
+# Lanugage preference list: concept spec in order of greatest to least preference, separated by ";"
+langPrefOrder = ConceptSpec(United States of America English language reference set (foundation metadata concept), \
+					bca0a686-3516-3daf-8fcf-fe396d13cfad); \
+					ConceptSpec(Great Britain English language reference set (foundation metadata concept), \
+					eb9a5e42-3cba-356d-b623-3ed472e20b30)
+
+# statedInferredPolicy options: stated (s), inferred (i), inferred then stated (is)
+statedInferredPolicy = is
+
+# Edit defaults are listed below. List one concept spec per default.
+defaultStatus = ConceptSpec(Active value (foundation metadata concept), d12702ee-c37f-385f-a070-61d56d4d0f1f)
+defaultDescType = ConceptSpec(Synonym (core metadata concept), 8bfba944-3965-3946-9bcb-1e80a5da63a2)
+defaultRelType = ConceptSpec(Is a (attribute), c93a30b9-ba77-3adb-a9b8-4589c9f8fb25)
+defaultRelChar = ConceptSpec(Stated relationship (core metadata concept), 3b0dbd3b-2e53-3a30-8576-6c7fa7773060)
+defaultRelRefinability = ConceptSpec(Not refinable (foundation metadata concept), ce30636d-bfc9-3a70-9678-abc6b542ab4c)
+
+# Refset defaults for editing are listed below. For each give a List of concept specs in order of preference. Separate entries with ";"
+concept.booleanRefsets = 
+concept.conceptRefsets = 
+concept.conIntRefsets = 
+concept.integerRefsets = 
+concept.stringRefsets = 
+concept.conConConRefsets =
+concept.conceptRefsetStatus = 
+concept.conceptConTypes = 
+
+desc.booleanRefsets = 
+desc.conceptRefsets = 
+desc.conIntRefsets = 
+desc.integerRefsets = 
+desc.stringRefsets = 
+desc.conConConRefsets =
+desc.conceptRefsetStatus = 
+desc.conceptConTypes = 
+
+# Default status for refset as a concept spec
+
+# Set display preferences to include rf2: true/false
+displayRf2 = true
+
+# Set to true to make a dev path for each user
+makeUserDevPath = false
+
+#Set the following only if makeUserDevPath is true
+# Only give UUID if parent concept NOT created in POM.
+# hasDevPathAsOriginPathFsn is for a path which has the dev path as its origin
+projectDevelopmentOriginPathFsn =
+projectDevelopmentParentPathUuid =
+projectDevelopmentParentPathFsn =
+hasDevPathAsOriginPathFsn =
+
+# Add additional parent relationships beyond "is a" and "Is a". List of concept specs separated by ";"
+parentRelationshipTypes =
+
+# The fsn of the module which editing will occur in. Default is unspecified module.
+module = ConceptSpec(JIF maintained module (core metadata concept), 2a6836d3-4782-5906-aec1-94ff862b21cb)
+
+# Refsets which will be visible in the classic view. List in the form of component.type
+# Available components: concept, desc, sourceRel, destRel
+# Available types: boolean, concept, conInt, string, integer, conConCon
+visibleRefests = concept.concept, concept.string, desc.concept, desc.string, sourceRel.concept, destRel.concept
+
+# Path FSNs are defined in the project pom, and used to generate the path concept UUID.
+# NOTE: please do not leave any whitespace before or after the variable substitution. 
+projectDevelopmentPathFsn =${projectDevelopmentPathFsn}
+projectDevelopmentViewPathFsn =${projectDevelopmentViewPathFsn}
+
+# generate adjudication changeset  on true/false
+generateAdjCs = false
+
+# Edit popups are listed below. . List of ConceptSpecs with entries separated by ;
+editStatusPopup = ConceptSpec(Active value (foundation metadata concept), d12702ee-c37f-385f-a070-61d56d4d0f1f); ConceptSpec(Inactive value (foundation metadata concept), a5daba09-7feb-37f0-8d6d-c3cadfc7f724)
+editDescTypesPopup = ConceptSpec(Fully specified name (core metadata concept), 00791270-77c9-32b6-b34f-d932569bd2bf); ConceptSpec(Synonym (core metadata concept), 8bfba944-3965-3946-9bcb-1e80a5da63a2)
+editRelTypesPopup = ConceptSpec(Is a (attribute), c93a30b9-ba77-3adb-a9b8-4589c9f8fb25)
+editRelCharacteristicsPopup = ConceptSpec(Stated relationship (core metadata concept), 3b0dbd3b-2e53-3a30-8576-6c7fa7773060)
+editRelRefinabiltysPopup = ConceptSpec(Optional refinability (foundation metadata concept), 7d2d6cd0-c727-397e-9bc8-da65562e9350);ConceptSpec(Mandatory refinability (foundation metadata concept), 67a79b5a-d56e-37f6-ad66-da712e39c453); ConceptSpec(Not refinable (foundation metadata concept), ce30636d-bfc9-3a70-9678-abc6b542ab4c)
+
+#Path coloring: path fsn and color separated by ";"  (use "\" to escape line breaks)
+#color is defined as Color(r, g, b) using 0-255 values
+# NOTE: please do not leave any whitespace before or after the variable substitution.
+pathColors =${projectDevelopmentPathFsn}, Color(255, 84, 27); \
+	Workbench Auxiliary, Color(25, 178, 63); \
+	SNOMED Core, Color(81, 23, 255); \
+	LOINC Path, Color(255, 255, 0); \
+	ProblemList Path, Color(255, 175, 175); \
+	VHAT Path, Color(0, 255, 255); \
+	RxNorm Path, Color(255, 200, 0); \
+	NDFRT Path, Color(255, 0, 255); \
+	NDF Path, Color(0, 0, 0); \
+	CHDR Path, Color(192, 192, 192); \
+	UMLS Path, Color(64, 64, 64); \
+	UCUM Path, Color(27, 37, 47); \
+	US Extension Path, Color(128, 128, 128)
+	
+#	Medical Devices Path, Color(13, 26, 42)
