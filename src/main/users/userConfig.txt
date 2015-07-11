@@ -2,11 +2,13 @@
 
 # Additional taxonomy roots. List of ConceptSpecs with entries separated by ";"
 additionalRoots = ConceptSpec(LOINC, 3958d043-9e8c-508e-bf6d-fd9c83a856da); \
-				ConceptSpec(UMLS Root Concepts, cfef9f3a-148e-5cb9-af1f-d3962c70180b); \
-				ConceptSpec(NDF-RT, 3f89350d-ceff-51f0-9c0e-57d3e53e29df); \
 				ConceptSpec(NDF, 28e577f4-4a37-555f-bef9-2a94866e4e5d); \
 				ConceptSpec(VHAT, 9f576ebe-d5a0-5024-a7e4-06b54ba2a4ea); \
 				ConceptSpec(Terminology Project Auxiliary concept, 781630aa-f89e-35e7-8a01-0892afb9cf6d);
+
+#				ConceptSpec(UMLS Root Concepts, cfef9f3a-148e-5cb9-af1f-d3962c70180b); \
+#				ConceptSpec(NDF-RT, 3f89350d-ceff-51f0-9c0e-57d3e53e29df); \
+
 
 # langSortPref options: rf2 refex (rf2), language refex (lr), type before language (tl), language before type (lt)
 langSortPref = rf2
