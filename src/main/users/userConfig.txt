@@ -97,14 +97,15 @@ pathColors =${projectDevelopmentPathFsn}, Color(255, 84, 27); \
 	Workbench Auxiliary, Color(25, 178, 63); \
 	SNOMED Core, Color(81, 23, 255); \
 	LOINC Path, Color(255, 255, 0); \
-	ProblemList Path, Color(255, 175, 175); \
 	VHAT Path, Color(0, 255, 255); \
-	RxNorm Path, Color(255, 200, 0); \
-	NDFRT Path, Color(255, 0, 255); \
 	NDF Path, Color(0, 0, 0); \
-	CHDR Path, Color(192, 192, 192); \
-	UMLS Path, Color(64, 64, 64); \
-	UCUM Path, Color(27, 37, 47); \
+	Spanish Extension Path, Color(150, 150, 150); \
 	US Extension Path, Color(128, 128, 128)
-	
+
+#	CHDR Path, Color(192, 192, 192); \
+#	UMLS Path, Color(64, 64, 64); \
+#	UCUM Path, Color(27, 37, 47); \
+#	RxNorm Path, Color(255, 200, 0); \
+#	NDFRT Path, Color(255, 0, 255); \
+#	ProblemList Path, Color(255, 175, 175); \	
 #	Medical Devices Path, Color(13, 26, 42)
