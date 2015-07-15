@@ -11,9 +11,6 @@ lstevenson	bbb2b51c-01b3-36a7-9790-87434d26753e	partitioning manager role	781630
 choang	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
 choang	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
 choang	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
-jlyle	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
-jlyle	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
-jlyle	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
 kcampbell	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
 kcampbell	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
 kcampbell	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
@@ -101,3 +98,12 @@ sassar	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a
 twilliams	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
 twilliams	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
 twilliams	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+kgalpin	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+kgalpin	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+kgalpin	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+khaake	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+khaake	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+khaake	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+cspisla	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+cspisla	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+cspisla	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 

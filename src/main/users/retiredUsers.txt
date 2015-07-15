@@ -10,3 +10,4 @@ JJ OConnor	jjoconnor
 Jenny Hwang	jhwang
 remote-user	remote-user
 Penni Hernandez	phernandez
+Jay Lyle	jlyle
