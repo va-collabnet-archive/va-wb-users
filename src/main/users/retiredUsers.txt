@@ -1,13 +1,3 @@
 #Format is:		unique_fullname	unique_username	[UUID]
 #where the UUID is optional (will be calculated in the same way generateUsersExtended does, if not provided)
 #
-
-Carolyn Hamm	chamm
-Elizabeth Smith	esmith
-Raisa Ionin	rionin
-Sarah Moreau	smoreau
-JJ OConnor	jjoconnor
-Jenny Hwang	jhwang
-remote-user	remote-user
-Penni Hernandez	phernandez
-Jay Lyle	jlyle
