@@ -99,9 +99,10 @@ pathColors =${projectDevelopmentPathFsn}, Color(255, 84, 27); \
 	LOINC Path, Color(255, 255, 0); \
 	VHAT Path, Color(0, 255, 255); \
 	NDF Path, Color(0, 0, 0); \
-	Spanish Extension Path, Color(150, 150, 150); \
+	VHA Extension 2015-05-31, Color(75, 75, 75); \
 	US Extension Path, Color(128, 128, 128)
 
+#	spanish language path, Color(150, 150, 150); \
 #	CHDR Path, Color(192, 192, 192); \
 #	UMLS Path, Color(64, 64, 64); \
 #	UCUM Path, Color(27, 37, 47); \
