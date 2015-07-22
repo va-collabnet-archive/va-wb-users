@@ -107,3 +107,9 @@ khaake	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a
 cspisla	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
 cspisla	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
 cspisla	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+kbishop	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+kbishop	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+kbishop	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+cdemosthenes	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+cdemosthenes	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
+cdemosthenes	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 

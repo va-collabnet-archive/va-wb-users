@@ -28,6 +28,8 @@ Tim Williams	twilliams	twilliams		admin	admin.ihtsdo
 Kevin Galpin	kgalpin	kgalpin		admin	admin.ihtsdo
 Kirsten Haake	khaake	khaake		admin	admin.ihtsdo
 Christine Spisla	cspisla	cspisla		admin	admin.ihtsdo
+Kimberly Bishop	kbishop	kbishop		admin	admin.ihtsdo
+Charles Demosthenes	cdemosthenes	cdemosthenes		admin	admin.ihtsdo
 
 
 Dan Armbrust	darmbrust	darmbrust		admin	admin.ihtsdo
