@@ -65,9 +65,6 @@ skeni	bbb2b51c-01b3-36a7-9790-87434d26753e	partitioning manager role	781630aa-f8
 amoore	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
 amoore	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
 amoore	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
-jlin	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
-jlin	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
-jlin	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
 grehwoldt	3585308c-3897-5709-91d9-1356617091ea	JIF editor	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
 grehwoldt	caeb77e2-abd4-5311-8ee0-c743694bd285	JIF reviewer	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 
 grehwoldt	7a8c8a56-6815-5abf-8d72-47b5122399f6	JIF approver	ee9ac5d2-a07c-3981-a57a-f7f26baf38d8	sct root 

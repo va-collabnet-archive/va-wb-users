@@ -12,7 +12,6 @@ Holly Miller	hmiller	hmiller		admin	admin.ihtsdo
 
 
 Angela Moore	amoore	amoore		admin	admin.ihtsdo
-Jessica Lin	jlin	jlin		admin	admin.ihtsdo
 Greg Rehwoldt	grehwoldt	grehwoldt		admin	admin.ihtsdo
 Cynthia Kossally	ckossally	ckossally		admin	admin.ihtsdo
 James Adams	jadams	jadams		admin	admin.ihtsdo
