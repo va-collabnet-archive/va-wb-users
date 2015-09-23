@@ -30,6 +30,19 @@ Christine Spisla	cspisla	cspisla		admin	admin.ihtsdo
 Kimberly Bishop	kbishop	kbishop		admin	admin.ihtsdo
 Charles Demosthenes	cdemosthenes	cdemosthenes		admin	admin.ihtsdo
 
+Ken Murphy	kmurphy	kmurphy		admin	admin.ihtsdo
+Jennifer Kriegel	jkriegel	jkriegel		admin	admin.ihtsdo
+David Carter	dcarter	dcarter		admin	admin.ihtsdo
+Freddie Miles	fmiles	fmiles		admin	admin.ihtsdo
+Cynthia Washington	cwashington	cwashington		admin	admin.ihtsdo
+Pavla Frazier	pfrazier	pfrazier		admin	admin.ihtsdo
+Elizabeth McCool	emccool	emccool		admin	admin.ihtsdo
+Celia Bowen	cbowen	cbowen		admin	admin.ihtsdo
+Jennifer Garvin	jgarvin	jgarvin		admin	admin.ihtsdo
+Monique Van Berkum	mvanberkum	mvanberkum		admin	admin.ihtsdo
+John Kilbourne	jkilbourne	jkilbourne		admin	admin.ihtsdo
+
+
 
 Dan Armbrust	darmbrust	darmbrust		admin	admin.ihtsdo
 Dan Smith	dsmith	dsmith		admin	admin.ihtsdo
