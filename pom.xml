@@ -8,13 +8,13 @@
 	</parent>
 	<groupId>gov.va.wb</groupId>
 	<artifactId>va-wb-users</artifactId>
-	<version>4.1-SNAPSHOT</version>
+	<version>4.1</version>
 	<packaging>pom</packaging>
 	<name>VA Terminology Workbench :: Users and Developers</name>
 	<scm>
-		<connection>scm:svn:https://csfe.aceworkspace.net/svn/repos/va-wb-bundle-4/va-wb-users/trunk</connection>
-		<developerConnection>scm:svn:https://csfe.aceworkspace.net/svn/repos/va-wb-bundle-4/va-wb-users/trunk</developerConnection>
-		<url>https://csfe.aceworkspace.net/integration/viewvc/viewvc.cgi/va-wb-users-4/trunk/?root=va-wb-bundle-4&amp;system=exsy1002</url>
+		<connection>scm:svn:https://csfe.aceworkspace.net/svn/repos/va-wb-bundle-4/va-wb-users/tags/4.1</connection>
+		<developerConnection>scm:svn:https://csfe.aceworkspace.net/svn/repos/va-wb-bundle-4/va-wb-users/tags/4.1</developerConnection>
+		<url>https://csfe.aceworkspace.net/integration/viewvc/viewvc.cgi/va-wb-users-4/tags/4.1?root=va-wb-bundle-4&amp;system=exsy1002</url>
 	</scm>
 	<build>
 		<plugins>
